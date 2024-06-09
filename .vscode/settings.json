@@ -3,6 +3,7 @@
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.addMissingImports": "explicit",
+    "source.organizeImports.biome": "explicit",
     "quickfix.biome": "explicit"
   },
   "typescript.preferences.importModuleSpecifier": "non-relative"
